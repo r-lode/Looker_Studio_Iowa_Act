@@ -18,6 +18,8 @@ The goal of this project was to develop an interactive dashboard to visualize ye
 <a name="visuals"></a>
 ## Visualizations
 
+![District Scores](~/images/DistrictACT.png)
+
 
 
 <a name="links"></a>
