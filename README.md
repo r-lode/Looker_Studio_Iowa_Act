@@ -20,7 +20,8 @@ The goal of this project was to develop an interactive dashboard to visualize ye
 
 Here is an example usage for someone interested in the ACT scores for the East Union Community School District. Scores below 18 are highlighted in red, while scores above 24 are highlighted in blue. In this example, we see that this school district had math scores lower than 18 in 2015 and 2020, but scored above 24 in Reading in 2016.
 
-![District Scores](./Looker_Studio_Iowa_Act/images/DistrictACT.png)
+![District Scores](./images/DistrictACT.png)
+
 
 
 
