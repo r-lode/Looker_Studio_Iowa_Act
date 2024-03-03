@@ -22,6 +22,16 @@ Here is an example usage for someone interested in the ACT scores for the East U
 
 ![District Scores](./images/DistrictACT.png)
 
+In the second panel, I select the Ames School District and Statewide Average for comparison. Ames consistently scores well against the Statewide school average across the state.
+
+![Score Over Time](./images/ScoreOverTime.png)
+
+
+In the final panel, the College Readiness Metrics are displayed for Cedar Falls Community School District.
+
+![College Readiness](./images/CollegeReadiness.png)
+
+
 
 
 
